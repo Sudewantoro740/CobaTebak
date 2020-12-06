@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CobaTebak</string>
+    <string name="hint_word">Kata...</string>
+    <string name="button_save">Simpan</string>
+    <string name="empty_not_saved">Kata tidak dapat disimpan Karena kosong</string>
+    <string name="Hapus">Data Telah Dihapus</string>
+    <string name="Judul">Sebutkan benda yang ada pada gambar diatas?</string>
+    <string name="hapus">Hapus</string>
+    <string name="kamartidur">KamarTidur</string>
+</resources>
